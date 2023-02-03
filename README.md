@@ -5,6 +5,7 @@ Solving missionaries and canniblas problem! Finding out the best solutions(cost,
 ## File
 MC.cpp is for basic needs of the game  
 MC_limited.cpp is for the game where time and cost are limited
+log.txt is the process of the moving missionaries and cannibals
 
 ## Tools and Techniques
 C++
